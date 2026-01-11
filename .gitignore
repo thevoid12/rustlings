@@ -1,8 +1,6 @@
 Cargo.lock
 target/
 .vscode/
-exercises/05_vecs/vecs1.rs
-exercises/05_vecs/vecs2.rs
 exercises/06_move_semantics/move_semantics1.rs
 exercises/06_move_semantics/move_semantics2.rs
 exercises/06_move_semantics/move_semantics3.rs
@@ -85,15 +83,12 @@ exercises/06_move_semantics/README.md
 exercises/18_iterators/README.md
 exercises/22_clippy/README.md
 exercises/16_lifetimes/README.md
-exercises/05_vecs/README.md
 exercises/21_macros/README.md
 exercises/13_error_handling/README.md
 exercises/11_hashmaps/README.md
 exercises/10_modules/README.md
 exercises/08_enums/README.md
 exercises/14_generics/README.md
-solutions/05_vecs/vecs1.rs
-solutions/05_vecs/vecs2.rs
 solutions/06_move_semantics/move_semantics1.rs
 solutions/06_move_semantics/move_semantics2.rs
 solutions/06_move_semantics/move_semantics3.rs
