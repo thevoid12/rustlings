@@ -1,13 +1,6 @@
 Cargo.lock
 target/
 .vscode/
-exercises/08_enums/enums1.rs
-exercises/08_enums/enums2.rs
-exercises/08_enums/enums3.rs
-exercises/09_strings/strings1.rs
-exercises/09_strings/strings2.rs
-exercises/09_strings/strings3.rs
-exercises/09_strings/strings4.rs
 exercises/10_modules/modules1.rs
 exercises/10_modules/modules2.rs
 exercises/10_modules/modules3.rs
@@ -63,7 +56,6 @@ exercises/23_conversions/using_as.rs
 exercises/quizzes/quiz2.rs
 exercises/quizzes/quiz3.rs
 exercises/12_options/README.md
-exercises/09_strings/README.md
 exercises/15_traits/README.md
 exercises/19_smart_pointers/README.md
 exercises/17_tests/README.md
@@ -77,15 +69,7 @@ exercises/21_macros/README.md
 exercises/13_error_handling/README.md
 exercises/11_hashmaps/README.md
 exercises/10_modules/README.md
-exercises/08_enums/README.md
 exercises/14_generics/README.md
-solutions/08_enums/enums1.rs
-solutions/08_enums/enums2.rs
-solutions/08_enums/enums3.rs
-solutions/09_strings/strings1.rs
-solutions/09_strings/strings2.rs
-solutions/09_strings/strings3.rs
-solutions/09_strings/strings4.rs
 solutions/10_modules/modules1.rs
 solutions/10_modules/modules2.rs
 solutions/10_modules/modules3.rs
