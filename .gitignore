@@ -1,9 +1,6 @@
 Cargo.lock
 target/
 .vscode/
-exercises/10_modules/modules1.rs
-exercises/10_modules/modules2.rs
-exercises/10_modules/modules3.rs
 exercises/11_hashmaps/hashmaps1.rs
 exercises/11_hashmaps/hashmaps2.rs
 exercises/11_hashmaps/hashmaps3.rs
@@ -68,11 +65,7 @@ exercises/16_lifetimes/README.md
 exercises/21_macros/README.md
 exercises/13_error_handling/README.md
 exercises/11_hashmaps/README.md
-exercises/10_modules/README.md
 exercises/14_generics/README.md
-solutions/10_modules/modules1.rs
-solutions/10_modules/modules2.rs
-solutions/10_modules/modules3.rs
 solutions/11_hashmaps/hashmaps1.rs
 solutions/11_hashmaps/hashmaps2.rs
 solutions/11_hashmaps/hashmaps3.rs
