@@ -1,12 +1,6 @@
 Cargo.lock
 target/
 .vscode/
-exercises/13_error_handling/errors1.rs
-exercises/13_error_handling/errors2.rs
-exercises/13_error_handling/errors3.rs
-exercises/13_error_handling/errors4.rs
-exercises/13_error_handling/errors5.rs
-exercises/13_error_handling/errors6.rs
 exercises/14_generics/generics1.rs
 exercises/14_generics/generics2.rs
 exercises/15_traits/traits1.rs
@@ -55,14 +49,7 @@ exercises/18_iterators/README.md
 exercises/22_clippy/README.md
 exercises/16_lifetimes/README.md
 exercises/21_macros/README.md
-exercises/13_error_handling/README.md
 exercises/14_generics/README.md
-solutions/13_error_handling/errors1.rs
-solutions/13_error_handling/errors2.rs
-solutions/13_error_handling/errors3.rs
-solutions/13_error_handling/errors4.rs
-solutions/13_error_handling/errors5.rs
-solutions/13_error_handling/errors6.rs
 solutions/14_generics/generics1.rs
 solutions/14_generics/generics2.rs
 solutions/15_traits/traits1.rs
