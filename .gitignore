@@ -1,9 +1,6 @@
 Cargo.lock
 target/
 .vscode/
-exercises/12_options/options1.rs
-exercises/12_options/options2.rs
-exercises/12_options/options3.rs
 exercises/13_error_handling/errors1.rs
 exercises/13_error_handling/errors2.rs
 exercises/13_error_handling/errors3.rs
@@ -47,9 +44,7 @@ exercises/23_conversions/from_into.rs
 exercises/23_conversions/from_str.rs
 exercises/23_conversions/try_from_into.rs
 exercises/23_conversions/using_as.rs
-exercises/quizzes/quiz2.rs
 exercises/quizzes/quiz3.rs
-exercises/12_options/README.md
 exercises/15_traits/README.md
 exercises/19_smart_pointers/README.md
 exercises/17_tests/README.md
@@ -62,9 +57,6 @@ exercises/16_lifetimes/README.md
 exercises/21_macros/README.md
 exercises/13_error_handling/README.md
 exercises/14_generics/README.md
-solutions/12_options/options1.rs
-solutions/12_options/options2.rs
-solutions/12_options/options3.rs
 solutions/13_error_handling/errors1.rs
 solutions/13_error_handling/errors2.rs
 solutions/13_error_handling/errors3.rs
@@ -108,5 +100,4 @@ solutions/23_conversions/from_into.rs
 solutions/23_conversions/from_str.rs
 solutions/23_conversions/try_from_into.rs
 solutions/23_conversions/using_as.rs
-solutions/quizzes/quiz2.rs
 solutions/quizzes/quiz3.rs
