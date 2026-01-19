@@ -1,7 +1,6 @@
 Cargo.lock
 target/
 .vscode/
-exercises/14_generics/generics1.rs
 exercises/14_generics/generics2.rs
 exercises/15_traits/traits1.rs
 exercises/15_traits/traits2.rs
@@ -50,7 +49,6 @@ exercises/22_clippy/README.md
 exercises/16_lifetimes/README.md
 exercises/21_macros/README.md
 exercises/14_generics/README.md
-solutions/14_generics/generics1.rs
 solutions/14_generics/generics2.rs
 solutions/15_traits/traits1.rs
 solutions/15_traits/traits2.rs
